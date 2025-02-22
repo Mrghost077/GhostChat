@@ -26,7 +26,7 @@ public class ChatServer
             while (message != null )
             {
                 System.out.println("Received Message from client : " + message);
-                out.println("Server echo : " + message);
+                //out.println("Server echo : " + message);
             }
 
 
